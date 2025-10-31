@@ -1,6 +1,5 @@
 # guess-my-number
 A classic guess my number game using javascript
-Absolutely\! Here's a structured and engaging **README** file for your "Guess My Number" JavaScript project, ready for GitHub.
 
 -----
 
